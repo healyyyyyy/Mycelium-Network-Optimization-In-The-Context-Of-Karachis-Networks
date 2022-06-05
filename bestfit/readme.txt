@@ -1,0 +1,1 @@
+This folder includes 2 python files one of them is getbestfits.py and the other is aggregatebestfit.py and are used to find the bestfit images by comparing data from simulation side and experiment side, and are used to aggregate data
